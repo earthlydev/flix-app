@@ -1,0 +1,28 @@
+.password{
+    text-align:center;
+    margin-top:75px;
+    padding: 2.5em 0;
+  }
+  
+  .personal-info{
+    text-align:center;
+    padding: 10px 0;
+  }
+  
+  .login-link{
+    text-align:center;
+    padding: 10px 0;
+    background-color:text-primary;
+  }
+  
+  .option{
+    text-align:center;
+  }
+  
+  a{
+    display:block;
+    text-align:center;
+    padding: 25px;
+  }
+  
+  
