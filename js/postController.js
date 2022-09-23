@@ -1,4 +1,4 @@
-class PostsController {
+export class PostsController {
     constructor(currentId = 0){
         this.posts = [];
         this.currentId = currentId;
@@ -15,3 +15,4 @@ class PostsController {
         this.posts.push(newPost);
     }
 }
+
