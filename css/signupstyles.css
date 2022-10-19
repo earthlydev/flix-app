@@ -38,7 +38,7 @@ html, body {
   .signup-btn {
     background-color: #1c8adb;
   }
-  .instagram-btn {
+  .flix-btn {
     background-color:#21afde ;
   }
   .a {
@@ -54,7 +54,7 @@ html, body {
     margin: -19px auto 10px;
     
   }
-  img {
+  svg {
     width: 70px;
     margin-top: -50px ;
   }
